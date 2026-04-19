@@ -9,9 +9,11 @@ Key Insights
 * **Regional Trends:** High-temperature clusters were primarily identified in regions like ID (Indonesia) and AS (American Samoa).
 
 Tools Used
-* **Data Source:** [Mention source, e.g., Kaggle, OpenWeather API, or Google Skills Lab dataset]
-* **Visualization:** [Mention tool, e.g., Google Looker Studio, Tableau, or Power BI]
-* **Data Processing:** [Mention if you used SQL, Python, or Excel for cleaning]
+Data Source: Google BigQuery (Public Datasets)
+
+Visualization: Google Looker Studio (formerly Data Studio)
+
+Data Processing: SQL (BigQuery Standard SQL) for data cleaning, aggregation, and filtering.
 
 Dashboard Features
 1.  **KPI Scorecards:** Instant view of global temperature metrics.
