@@ -1,4 +1,4 @@
-2024 Global Weather Analysis Dashboard
+**2024 Global Weather Analysis Dashboard**
 
 Project Overview
 This project provides an interactive visualization of global temperature trends throughout 2024. The goal was to transform raw weather data into actionable insights regarding regional temperature extremes and global averages.
