@@ -1,10 +1,10 @@
-2024 Global Weather Analysis Dashboard
+**2024 Global Weather Analysis Dashboard**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project serves as a comprehensive analysis of global temperature patterns using the NOAA GHCN (Global Historical Climatology Network) dataset. The objective was to architect a data pipeline—from raw data extraction in BigQuery to final visualization in Looker Studio—to identify regional climate anomalies and global averages for the year 2024.
 
-🛠️ Tech Stack & Workflow
+🛠️ **Tech Stack & Workflow**
 
 Data Source: Google BigQuery Public Datasets (processed over 100k+ rows of raw weather data).
 
@@ -12,7 +12,7 @@ Processing & ETL: Advanced SQL (Standard SQL) used for data cleaning, handling n
 
 Visualization: Google Looker Studio (formerly Data Studio) used to build an interactive, stakeholder-ready dashboard.
 
-📊 Key Insights
+📊 **Key Insights**
 
 Global Baseline: The 2024 average temperature across all monitored global stations was recorded at 9.3°C.
 
@@ -20,7 +20,7 @@ Extreme Variance: Analysis detected a significant temperature range of 76.3°C b
 
 Geographic Concentration: Identified high-temperature clusters primarily localized in the Equatorial regions, specifically within Indonesia (ID) and American Samoa (AS).
 
-🚀 Dashboard Features
+🚀 **Dashboard Features**
 
 KPI Scorecards: Real-time summary of global temperature metrics.
 
